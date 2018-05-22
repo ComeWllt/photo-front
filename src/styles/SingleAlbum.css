@@ -1,0 +1,26 @@
+@media only screen and (max-width: 767px) {
+  .ui.stackable.cards>.card {
+    height: 250px !important;
+  }
+  .ui.cards>.card>:first-child{
+    height: 145px !important;
+  }
+}
+
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+  .ui.three.doubling.cards>.card {
+    height: 305px !important;
+  }
+  .ui.cards>.card>:first-child{
+    height: 205px !important;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .ui.three.doubling.cards>.card {
+    height: 350px !important;
+  }
+  .ui.cards>.card>:first-child{
+    height: 250px !important;
+  }
+}
