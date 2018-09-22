@@ -1,6 +1,6 @@
 # Front-end of MyPhoto
 
-This is the back-end of a photo gallery website. 
+This is the front-end of a photo gallery website. 
 This is a personnal project to share my photos with friends and family. <br>
 The website is fully responsive. 
 This project is still in development, which means more features may be added in the future.
